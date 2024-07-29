@@ -1,3 +1,5 @@
+![Votre photo](image.png)
+
 # Prénom NOM
 Elève ingénieur en [préciser sa spécialité]
 
@@ -53,3 +55,26 @@ _Stage – intitulé du poste_
 
 _Intitulé du poste dans une équipe de XX membres_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
+
+## Autres compétences
+
+Langues
+* LV1 à préciser : niveau à préciser (résultat d’examen)
+* LV2 à préciser : niveau à préciser (résultat d’examen)
+
+Informatique
+* Logiciels maitrisés
+* Logiciels maitrisés
+
+Autres
+* Autres diplômes ou permis spéciaux
+
+## Centres d’intérêt
+
+Loisirs 1
+* Description 
+* Description 
+
+Loisirs 1
+* Description 
+* Description 
